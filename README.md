@@ -1,2 +1,2 @@
-# Mes-Mitaines-Ch-ries
+# Mes-Mitaines-Chèries
 Red+Cat+Fruit+Cake+Dessert
