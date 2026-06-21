@@ -1000,6 +1000,14 @@ img[src$="/images/skins/iconsets/default/icon_user.png"] {
   content: url("https://zerafinacss.github.io/ao3/icons/user-default-01.png");
 }
 
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  box-sizing: border-box;
+  border: 1.5px solid #00000025;
+  background: linear-gradient(transparent, #ffffff50 45% 55%, transparent), 
+    #5c6532 border-box;
+  content: url("https://zerafinacss.github.io/ao3/icons/collection-01.png");
+}
+
 .comment .icon .anonymous {
   box-sizing: border-box;
   border: 1.5px solid #00000025;
