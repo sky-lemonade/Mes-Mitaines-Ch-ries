@@ -1258,7 +1258,7 @@ li.blurb .tags {
 }
 
 .splash .favorite:after {
-  content: "𐙚 ̊ʟᴀᴅɪᴇꜱ ᴅᴏ ɴᴏᴛ ꜱᴛᴀʀᴛ ꜰɪɢʜᴛꜱ, ʙᴜᴛ ᴛʜᴇʏ ᴄᴀɴ ꜰɪɴɪꜱʜ ᴛʜᴇᴍ .ᐟ";
+  content: "𐙚 ̊ʟᴀᴅɪᴇꜱ ᴅᴏ ɴᴏᴛ ꜱᴛᴀʀᴛ ꜰɪɢʜᴛꜱ ʙᴜᴛ ᴛʜᴇʏ ᴄᴀɴ ꜰɪɴɪꜱʜ ᴛʜᴇᴍ .ᐟ";
   display: flex;
   color: #f7e4cc !important;
   justify-content: center;
