@@ -137,11 +137,11 @@ form.search input[type="text"] {
 }
 
 #main a {
-  color: #f7e4cc;
+  color: #ffd3a1;
 }
 
 .blurb h4.heading a:visited {
-  color: #ffd3a1 !important;
+  color: #c7cc8b !important;
 }
 
 #main a:hover {
