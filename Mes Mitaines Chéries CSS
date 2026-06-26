@@ -772,6 +772,21 @@ li.blurb,
   background-size: auto 110% !important;
 }
 
+#workskin .byline+.summary,
+#workskin .notes.group,
+#workskin .chapter.group,
+#workskin .preface.group,
+#workskin .preface h2.title~.notes {
+  margin: 1.5em 0;
+}
+
+#workskin .chapter.group {
+  width: auto;
+  border: 1px solid #f7e4cc !important;
+  border-radius: 0.5rem;
+  padding: 0.5em 1.25em;
+}
+
 .workskin .notes,
 dl.meta,
 .reading h4.viewed,
