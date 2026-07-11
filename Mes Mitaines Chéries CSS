@@ -310,7 +310,7 @@ html body img[src$="/images/lockblue.png"] {
   -webkit-filter: none !important;
   border-radius: 0 !important;
   font-family: "Garamond", "Baskerville", "Georgia", "Times New Roman", serif !important;
-  font-size: 80% !important;
+  font-size: 76% !important;
 }
 
 #dashboard {
