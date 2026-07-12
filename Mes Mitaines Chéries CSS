@@ -1,6 +1,6 @@
 * {
   font-family: 'Monsieur La Doulaise', cursive !important;
-}
+}  /* erase this code if you don't like the cursive font style */
 
 p.muted.notice {
   display: none;
