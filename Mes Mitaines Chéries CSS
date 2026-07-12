@@ -780,7 +780,8 @@ li.blurb,
   margin: 1.5em 0;
 }
 
-#workskin .chapter.group {
+#workskin .chapter.group,
+#workskin .byline+.summary {
   width: auto;
   border: 1px solid #f7e4cc !important;
   border-radius: 0.5rem;
