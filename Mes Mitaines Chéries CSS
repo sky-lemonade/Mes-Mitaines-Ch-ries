@@ -1246,7 +1246,7 @@ img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
 .status .private,
 img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
   color: #0000001a;
-  background: url("https://zerafinacss.github.io/ao3/icons/bookmark-locked-01.png"), 
+  background: url("https://zerafinacss.github.io/ao3/icons/bookmark-locked-02.png"), 
     #ca753e;
   font-size: 0;
 }
@@ -1258,7 +1258,7 @@ img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
 .status .hidden,
 img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
   color: #0000001a;
-  background: url("https://zerafinacss.github.io/ao3/icons/bookmark-locked-01.png"), 
+  background: url("https://zerafinacss.github.io/ao3/icons/bookmark-locked-02.png"), 
     #48494b;
 }
 
